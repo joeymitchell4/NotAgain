@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_items.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\menu\\menu_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_items.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\menu\\menu_items.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\drinking.jpg",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\drawable-ldpi\\drinking.jpg"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\beerwallpaper.jpg",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\drawable-ldpi\\beerwallpaper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\drinking.jpg",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\drawable-ldpi\\drinking.jpg"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\beerwallpaper.jpg",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\drawable-ldpi\\beerwallpaper.jpg"
+    }
+]

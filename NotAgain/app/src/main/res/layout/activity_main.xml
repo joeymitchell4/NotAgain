@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <LinearLayout android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+        <LinearLayout android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <TextView android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:textSize="24sp"
+                android:text="End Time"
+                android:layout_margin="24dp"/>
+
+            <TextView android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_margin="24dp"
+                android:layout_weight="1"
+                android:id="@+id/end_time"/>
+
+        </LinearLayout>
+
+        <LinearLayout android:orientation="horizontal"
+            android:layout_height="wrap_content"
+             android:layout_width="match_parent">
+                 <TextView android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="24sp"
+                    android:text="Emergency Contact"
+                    android:layout_margin="24dp"/>
+                <TextView android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_margin="24dp"
+                    android:layout_weight="1"
+                    android:id="@+id/emergency_contact"/>
+        </LinearLayout>
+
+</LinearLayout>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="24sp"
+        android:text="Time to Git Drunk!"
+        android:id="@+id/git_drunk"
+        android:textStyle="bold"
+        android:fontFamily="casual"
+        android:background="@android:color/holo_blue_dark"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:layout_marginBottom="48dp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

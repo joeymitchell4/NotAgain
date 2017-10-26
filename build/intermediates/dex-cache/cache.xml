@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_7fc93f81fec5224e45eb52ccb61367334f26f6fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_f9d07d73407a1f0f7bf3b8da9767fc28f77108d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_1b61aca6c348fe8d1b479345cab8d93c86c54c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_76337ecbc0d901c82ea2a5d633fdccfc45ad2872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joeym\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_63b6bceb19b4806141e9ffa382e3d981f33d34eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\joeym\Desktop\NotAgain\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_6ba7eb4303757a9030b7ad776a0545e8be7bcc93.jar" />
+    </item>
+
+</items>

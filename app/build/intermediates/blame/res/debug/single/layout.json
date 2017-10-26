@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lock.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\layout\\activity_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activty_landing.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\layout\\activty_landing.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_row.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\layout\\activity_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activty_landing.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\layout\\activty_landing.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_row.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\NotAgain\\app\\src\\main\\res\\layout\\activity_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lock.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\layout\\activity_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "C:\\Users\\joeym\\Desktop\\Saftey\\bl-ca-pr1\\app\\src\\main\\res\\layout\\activity_list.xml"
+    }
+]
